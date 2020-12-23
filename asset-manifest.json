@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.477fb8f3.chunk.css",
+    "main.js": "/profile/static/js/main.9f232d89.chunk.js",
+    "main.js.map": "/profile/static/js/main.9f232d89.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.cb6bac71.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.cb6bac71.js.map",
+    "static/css/2.95f25948.chunk.css": "/profile/static/css/2.95f25948.chunk.css",
+    "static/js/2.596467b5.chunk.js": "/profile/static/js/2.596467b5.chunk.js",
+    "static/js/2.596467b5.chunk.js.map": "/profile/static/js/2.596467b5.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/profile/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.477fb8f3.chunk.css.map": "/profile/static/css/main.477fb8f3.chunk.css.map",
+    "static/js/2.596467b5.chunk.js.LICENSE.txt": "/profile/static/js/2.596467b5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/profile/static/media/todolist.04db867b.png",
+    "static/media/myImage.7e04f91d.jpeg": "/profile/static/media/myImage.7e04f91d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb6bac71.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.596467b5.chunk.js",
+    "static/css/main.477fb8f3.chunk.css",
+    "static/js/main.9f232d89.chunk.js"
+  ]
+}
